@@ -35,7 +35,7 @@ https://www.ebi.ac.uk/metagenomics/
 
 ## GitHub or any other public repositories of your FOSS products (if any)
 ---
-
+https://github.com/EBI-Metagenomics/elixir-biohackathon
 https://github.com/EBI-Metagenomics/emg-toolkit
 https://github.com/EBI-Metagenomics/emgapi
 
